@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialogue_round"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/congrats_anim"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_280"
+        android:layout_centerInParent="true"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/level_up">
+
+    </com.airbnb.lottie.LottieAnimationView>
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_300"
+        android:id="@+id/congrats_anim2"
+        app:lottie_rawRes="@raw/congo"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="64dp"
+        android:layout_alignParentTop="true">
+
+    </com.airbnb.lottie.LottieAnimationView>
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/congrats_anim"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:text="Level Up"
+        android:textColor="@color/black"
+        android:textSize="@dimen/dp_24">
+
+    </TextView>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        android:layout_below="@+id/txtview"
+        android:background="@drawable/btn_bg"
+        android:text="Done">
+
+    </androidx.appcompat.widget.AppCompatButton>
+</RelativeLayout>

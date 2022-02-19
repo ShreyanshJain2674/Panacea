@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Panacea">
         <activity
+            android:name=".NumberSelection"
+            android:exported="false" />
+        <activity
+            android:name=".num_home"
+            android:exported="false" />
+        <activity
+            android:name=".LetterStory"
+            android:exported="false" />
+        <activity
+            android:name=".LetterSelection"
+            android:exported="false" />
+        <activity
+            android:name=".LetterDraw"
+            android:exported="false" />
+        <activity
+            android:name=".homepage"
+            android:exported="false" />
+        <activity
+            android:name=".HelpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".gender"
+            android:exported="false" />
+        <activity
+            android:name=".alpha_home"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

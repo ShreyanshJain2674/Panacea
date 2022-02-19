@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alpha_colors">
+        <item>#E93B38</item>
+        <item>#6E9ED4</item>
+        <item>#7BC043</item>
+        <item>#F79F61</item>
+        <item>#70C9BD</item>
+        <item>#DDE11F</item>
+        <item>#3AB8D5</item>
+        <item>#95488B</item>
+        <item>#FEDC36</item>
+        <item>#6E9ED4</item>
+        <item>#EE5A82</item>
+        <item>#F8971D</item>
+        <item>#2CAE4E</item>
+        <item>#EF4054</item>
+        <item>#FEBF34</item>
+        <item>#91CB80</item>
+        <item>#EE5A82</item>
+        <item>#355EAA</item>
+        <item>#F7EA00</item>
+        <item>#9ADAEF</item>
+        <item>#D41B64</item>
+        <item>#FFD453</item>
+        <item>#07B9AB</item>
+        <item>#CC69A9</item>
+        <item>#00A7E2</item>
+        <item>#A8BD3E</item>
+    </string-array>
+
+    <string-array name="num_colors">
+        <item>#41C2F4</item>
+        <item>#01C6BA</item>
+        <item>#FF7CBA</item>
+        <item>#FF9116</item>
+        <item>#77D934</item>
+        <item>#3075FF</item>
+        <item>#E337DB</item>
+        <item>#FCC105</item>
+        <item>#1ABB65</item>
+        <item>#FF1B35</item>
+    </string-array>
+
+</resources>
