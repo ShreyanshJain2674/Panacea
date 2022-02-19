@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Panacea"
-include ':app'
+include ':app',':tracinglibrary'
