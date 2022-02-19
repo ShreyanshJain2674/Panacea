@@ -1,6 +1,5 @@
 package com.codewithArdents.panacea;
 
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -68,6 +67,7 @@ public class LetterCard_Adapter extends RecyclerView.Adapter<LetterCard_Adapter.
                 {
                     Intent intent = new Intent(context,LetterDraw.class);
                     intent.putExtra("letter",holder.getAdapterPosition()+30);
+                    intent.putExtra("color",colors.get(holder.getAdapterPosition()));
                     context.startActivity(intent);
                 }
 

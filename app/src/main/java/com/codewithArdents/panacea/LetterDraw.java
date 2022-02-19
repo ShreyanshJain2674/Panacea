@@ -72,7 +72,7 @@ public class LetterDraw extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 lottieAnimationView.cancelAnimation();
-                startActivity(new Intent(LetterDraw.this,LetterSelection.class));
+                //startActivity(new Intent(LetterDraw.this,LetterSelection.class));
                 finish();
             }
         });
