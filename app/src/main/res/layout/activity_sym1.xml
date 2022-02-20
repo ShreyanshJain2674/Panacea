@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/dp_4"
         android:textSize="@dimen/dp_18"
-        android:text="Trace the broken lines from left to right"
+        android:text="Trace the broken lines from top to bottom"
         android:fontFamily="sans-serif"
         android:textColor="@color/black"/>
 
