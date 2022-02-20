@@ -60,12 +60,12 @@
         "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_num_7.png.flat",
-        "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\num_7.png"
-    },
-    {
         "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialogue_round.xml.flat",
         "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\dialogue_round.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_num_7.png.flat",
+        "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\num_7.png"
     },
     {
         "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_letter_i.png.flat",
@@ -132,12 +132,12 @@
         "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\letter_h.png"
     },
     {
-        "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_sym1.png.flat",
-        "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\sym1.png"
-    },
-    {
         "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_edittext.xml.flat",
         "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_sym1.png.flat",
+        "source": "E:\\Projects\\Panacea\\app\\src\\main\\res\\drawable\\sym1.png"
     },
     {
         "merged": "E:\\Projects\\Panacea\\app\\build\\intermediates\\merged_res\\debug\\drawable_grp_num.png.flat",

@@ -80,7 +80,7 @@ public class sym_1 extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        startActivity(new Intent(sym_1.this,LetterSelection.class));
+        startActivity(new Intent(sym_1.this,homepage.class));
         finish();
     }
 }
