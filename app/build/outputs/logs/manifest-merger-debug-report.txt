@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
 MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\8d4a713b6a816fc14236f0c50c685df9\transformed\lottie-4.2.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\bf8eecf50a31b54082a6f9e21d3a7e9f\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\3a42d6d961104f2203e01b27ad9ffb80\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -46,25 +46,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\c35deb218a42f6b1ccb34889e38f5e8d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\00cc0f5b3215ee1f60046e4e5c8104d7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\8eea7595a76eeb0c4b6896fc1a39274e\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:1-60:12
 		INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:5:5-54:19
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:5:5-58:19
 MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\8d4a713b6a816fc14236f0c50c685df9\transformed\lottie-4.2.2\AndroidManifest.xml:9:5-20
 MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\8d4a713b6a816fc14236f0c50c685df9\transformed\lottie-4.2.2\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Tushar Dupga\.gradle\caches\transforms-3\bf8eecf50a31b54082a6f9e21d3a7e9f\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
@@ -95,84 +95,96 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tu
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.codewithArdents.panacea.sym_1
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:13:13-34
+activity#com.codewithArdents.panacea.sym_home
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:16:13-37
 activity#com.codewithArdents.panacea.SplashActivity
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:18:9-27:20
 	android:exported
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:15:13-69
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:21:13-69
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:13:13-43
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.codewithArdents.panacea.NumberSelection
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:22:9-24:40
-	android:exported
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:24:13-37
-	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:13-44
-activity#com.codewithArdents.panacea.num_home
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:9-27:40
-	android:exported
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:26:13-37
-activity#com.codewithArdents.panacea.LetterStory
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:29:13-40
-activity#com.codewithArdents.panacea.LetterSelection
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:29:13-44
+activity#com.codewithArdents.panacea.num_home
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:32:13-44
-activity#com.codewithArdents.panacea.LetterDraw
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:32:13-37
+activity#com.codewithArdents.panacea.LetterStory
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:34:9-36:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:35:13-39
-activity#com.codewithArdents.panacea.homepage
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:35:13-40
+activity#com.codewithArdents.panacea.LetterSelection
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:37:9-39:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:38:13-37
-activity#com.codewithArdents.panacea.HelpActivity
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.codewithArdents.panacea.LetterDraw
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:40:9-42:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:41:13-41
-activity#com.codewithArdents.panacea.gender
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:41:13-39
+activity#com.codewithArdents.panacea.homepage
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:43:9-45:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:44:13-35
-activity#com.codewithArdents.panacea.alpha_home
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:44:13-37
+activity#com.codewithArdents.panacea.HelpActivity
 ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:46:9-48:40
 	android:exported
 		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:47:13-39
-activity#com.codewithArdents.panacea.MainActivity
-ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:49:9-53:20
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.codewithArdents.panacea.gender
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:49:9-51:40
 	android:exported
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:51:13-36
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:50:13-41
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:50:13-35
+activity#com.codewithArdents.panacea.alpha_home
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:53:13-39
+activity#com.codewithArdents.panacea.MainActivity
+ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:55:9-57:39
+	android:exported
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml:56:13-41
 uses-sdk
 INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Projects\Panacea\app\src\main\AndroidManifest.xml

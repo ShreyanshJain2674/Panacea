@@ -51,14 +51,14 @@ public class LetterCard_Adapter extends RecyclerView.Adapter<LetterCard_Adapter.
                     if(Utility.getValue((Activity) context)==0){
                         Utility.setValue(((Activity) context),1 );
                         Intent intent = new Intent(context,LetterStory.class);
-                        intent.putExtra("letter",holder.getAdapterPosition()+1);
+                        intent.putExtra("letter",27);
                         intent.putExtra("color",colors.get(holder.getAdapterPosition()));
                         Log.e("pos"," "+holder.getAdapterPosition());
                         context.startActivity(intent);
                     }else{
                         Intent intent = new Intent(context,LetterDraw.class);
                         intent.putExtra("color",colors.get(holder.getAdapterPosition()));
-                        intent.putExtra("letter",holder.getAdapterPosition()+1);
+                        intent.putExtra("letter",27);
                         Log.e("pos"," "+holder.getAdapterPosition());
                         context.startActivity(intent);
                     }

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Panacea">
         <activity
+            android:name=".sym_1"
+            android:exported="false" />
+        <activity
+            android:name=".sym_home"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
@@ -48,9 +54,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
     </application>
 
 </manifest>

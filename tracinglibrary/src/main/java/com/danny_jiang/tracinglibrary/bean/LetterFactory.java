@@ -33,6 +33,7 @@ public class LetterFactory {
     public static final int X = W + 1;
     public static final int Y = X + 1;
     public static final int Z = Y + 1;
+    public static final int h_line = 27;
     public static final int zero = 30;
     public static final int one = 31;
     public static final int two = 32;
@@ -59,9 +60,9 @@ public class LetterFactory {
     @IntDef({A, B, C, D, E, F, G,
             H, I, J, K, L, M, N,
             O, P, Q, R, S, T,
-            U, V, W, X, Y, Z,one,
+            U, V, W, X, Y, Z,zero,one,
             two,three,four,five,
-            six,seven,eight,nine})
+            six,seven,eight,nine,h_line})
     @Retention(RetentionPolicy.SOURCE)
     public @interface Letter {
     }

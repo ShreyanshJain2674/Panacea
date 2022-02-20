@@ -13,12 +13,14 @@ color teal_700
 color white
 drawable age_bg1
 drawable age_bg2
+drawable alien
 drawable alpha_a
 drawable alpha_b
 drawable boy
 drawable boy_bg
 drawable boys_dummy
 drawable btn_bg
+drawable bus
 drawable butterfly
 drawable camera_bg2
 drawable camera_bg_1
@@ -82,6 +84,10 @@ drawable r_girl
 drawable rounded_corner
 drawable splash
 drawable star
+drawable sym1
+drawable sym2
+drawable sym3
+drawable sym_grp
 drawable y_letter
 id button
 id camera_bg_small
@@ -108,6 +114,7 @@ id ll1
 id logout_menu
 id nextNum
 id nextalpha
+id nextsymbol
 id num_recycler
 id number_picker
 id profile_name
@@ -118,6 +125,7 @@ id story_image
 id textView
 id textView2
 id textView3
+id trace1
 id txtview
 id videoView1
 layout activity_alpha_home
@@ -131,6 +139,8 @@ layout activity_main
 layout activity_num_home
 layout activity_number_selection
 layout activity_splash
+layout activity_sym1
+layout activity_sym_home
 layout congratulation_dialogue
 layout letters_cardview
 menu home_menu

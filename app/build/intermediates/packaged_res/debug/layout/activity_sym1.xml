@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".sym_1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/dp_24"
+        android:text="Activity No. 1"
+        android:layout_margin="@dimen/dp_8"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_4"
+        android:textSize="@dimen/dp_18"
+        android:text="Trace the broken lines from left to right"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_220"
+        android:layout_marginLeft="@dimen/dp_16"
+        android:layout_marginRight="@dimen/dp_16"
+        android:layout_marginTop="@dimen/dp_32"
+        android:src="@drawable/alien"
+        android:scaleType="fitXY"/>
+
+    <com.danny_jiang.tracinglibrary.view.TracingLetterView
+        android:layout_marginTop="@dimen/dp_64"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_gravity="center"
+        android:layout_marginEnd="@dimen/dp_40"
+        android:layout_marginStart="@dimen/dp_40"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/trace1"
+        app:pointColor="@color/purple_500"
+        app:instructionMode="false"
+        app:strokeColor="@color/black"
+        app:anchorDrawable="@drawable/star">
+
+    </com.danny_jiang.tracinglibrary.view.TracingLetterView>
+
+
+</LinearLayout>

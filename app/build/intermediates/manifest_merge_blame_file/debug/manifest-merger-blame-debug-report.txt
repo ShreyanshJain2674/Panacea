@@ -11,7 +11,7 @@
 9-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:5:5-54:19
+11-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:5:5-58:19
 12        android:allowBackup="true"
 12-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -25,89 +25,99 @@
 17-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.Panacea" >
-20-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:11:9-45
-21        <activity
-21-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:12:9-21:20
-22            android:name="com.codewithArdents.panacea.SplashActivity"
-22-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:13:13-43
-23            android:exported="true"
-23-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:14:13-36
-24            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-24-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:15:13-69
-25            <intent-filter>
-25-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:16:13-20:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:17-69
-26-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:17-77
-28-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity
-31-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:22:9-24:40
-32            android:name="com.codewithArdents.panacea.NumberSelection"
-32-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:13-44
-33            android:exported="false" />
-33-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:24:13-37
-34        <activity
-34-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:9-27:40
-35            android:name="com.codewithArdents.panacea.num_home"
-35-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:26:13-37
-36            android:exported="false" />
-36-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:27:13-37
-37        <activity
-37-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:28:9-30:40
-38            android:name="com.codewithArdents.panacea.LetterStory"
-38-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:29:13-40
-39            android:exported="false" />
-39-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:30:13-37
-40        <activity
-40-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:31:9-33:40
-41            android:name="com.codewithArdents.panacea.LetterSelection"
-41-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:32:13-44
-42            android:exported="false" />
-42-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:33:13-37
-43        <activity
-43-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:34:9-36:40
-44            android:name="com.codewithArdents.panacea.LetterDraw"
-44-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:35:13-39
-45            android:exported="false" />
-45-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:36:13-37
-46        <activity
-46-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:37:9-39:40
-47            android:name="com.codewithArdents.panacea.homepage"
-47-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:38:13-37
-48            android:exported="false" />
-48-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:39:13-37
-49        <activity
-49-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:40:9-42:40
-50            android:name="com.codewithArdents.panacea.HelpActivity"
-50-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:41:13-41
-51            android:exported="false" />
-51-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:42:13-37
-52        <activity
-52-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:43:9-45:40
-53            android:name="com.codewithArdents.panacea.gender"
-53-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:44:13-35
-54            android:exported="false" />
-54-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:45:13-37
-55        <activity
-55-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:46:9-48:40
-56            android:name="com.codewithArdents.panacea.alpha_home"
-56-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:47:13-39
-57            android:exported="false" />
-57-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:48:13-37
-58        <activity
-58-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:49:9-53:20
-59            android:name="com.codewithArdents.panacea.MainActivity"
-59-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:50:13-41
-60            android:exported="true" >
-60-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:51:13-36
-61        </activity>
-62    </application>
-63
-64</manifest>
+19        android:theme="@style/Theme.Panacea" >
+19-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:11:9-45
+20        <activity
+20-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:12:9-14:40
+21            android:name="com.codewithArdents.panacea.sym_1"
+21-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:13:13-34
+22            android:exported="false" />
+22-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:14:13-37
+23        <activity
+23-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:15:9-17:40
+24            android:name="com.codewithArdents.panacea.sym_home"
+24-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:16:13-37
+25            android:exported="false" />
+25-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:17:13-37
+26        <activity
+26-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:18:9-27:20
+27            android:name="com.codewithArdents.panacea.SplashActivity"
+27-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:19:13-43
+28            android:exported="true"
+28-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:20:13-36
+29            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+29-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:21:13-69
+30            <intent-filter>
+30-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:17-69
+31-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:17-77
+33-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:28:9-30:40
+37            android:name="com.codewithArdents.panacea.NumberSelection"
+37-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:29:13-44
+38            android:exported="false" />
+38-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:30:13-37
+39        <activity
+39-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:31:9-33:40
+40            android:name="com.codewithArdents.panacea.num_home"
+40-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:32:13-37
+41            android:exported="false" />
+41-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:33:13-37
+42        <activity
+42-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:34:9-36:40
+43            android:name="com.codewithArdents.panacea.LetterStory"
+43-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:35:13-40
+44            android:exported="false" />
+44-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:36:13-37
+45        <activity
+45-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:37:9-39:40
+46            android:name="com.codewithArdents.panacea.LetterSelection"
+46-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:38:13-44
+47            android:exported="false" />
+47-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:39:13-37
+48        <activity
+48-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:40:9-42:40
+49            android:name="com.codewithArdents.panacea.LetterDraw"
+49-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:41:13-39
+50            android:exported="false" />
+50-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:42:13-37
+51        <activity
+51-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:43:9-45:40
+52            android:name="com.codewithArdents.panacea.homepage"
+52-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:44:13-37
+53            android:exported="false" />
+53-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:45:13-37
+54        <activity
+54-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:46:9-48:40
+55            android:name="com.codewithArdents.panacea.HelpActivity"
+55-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:47:13-41
+56            android:exported="false" />
+56-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:48:13-37
+57        <activity
+57-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:49:9-51:40
+58            android:name="com.codewithArdents.panacea.gender"
+58-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:50:13-35
+59            android:exported="false" />
+59-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:51:13-37
+60        <activity
+60-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:52:9-54:40
+61            android:name="com.codewithArdents.panacea.alpha_home"
+61-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:53:13-39
+62            android:exported="false" />
+62-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:54:13-37
+63        <activity
+63-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:55:9-57:39
+64            android:name="com.codewithArdents.panacea.MainActivity"
+64-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:56:13-41
+65            android:exported="true" />
+65-->E:\Projects\Panacea\app\src\main\AndroidManifest.xml:57:13-36
+66    </application>
+67
+68</manifest>

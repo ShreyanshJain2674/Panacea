@@ -2203,6 +2203,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable age_bg1
 drawable age_bg2
+drawable alien
 drawable alpha_a
 drawable alpha_b
 drawable avd_hide_password
@@ -2219,6 +2220,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable bus
 drawable butterfly
 drawable camera_bg2
 drawable camera_bg_1
@@ -2326,6 +2328,10 @@ drawable r_girl
 drawable rounded_corner
 drawable splash
 drawable star
+drawable sym1
+drawable sym2
+drawable sym3
+drawable sym_grp
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2627,6 +2633,7 @@ id navigation_header_container
 id never
 id nextNum
 id nextalpha
+id nextsymbol
 id noScroll
 id none
 id normal
@@ -2781,6 +2788,7 @@ id toggle
 id top
 id topPanel
 id touch_outside
+id trace1
 id transitionToEnd
 id transitionToStart
 id transition_current_scene
@@ -2887,6 +2895,8 @@ layout activity_main
 layout activity_num_home
 layout activity_number_selection
 layout activity_splash
+layout activity_sym1
+layout activity_sym_home
 layout congratulation_dialogue
 layout custom_dialog
 layout design_bottom_navigation_item

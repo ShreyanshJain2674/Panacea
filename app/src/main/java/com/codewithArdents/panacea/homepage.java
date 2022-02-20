@@ -40,7 +40,7 @@ public class homepage extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getApplicationContext(),"clicked",Toast.LENGTH_SHORT).show();
-                cv1.getContext().startActivity(new Intent(cv1.getContext(), alpha_home.class));
+                cv1.getContext().startActivity(new Intent(cv1.getContext(), sym_home.class));
             }
         });
         cv2.setOnClickListener(new View.OnClickListener() {
