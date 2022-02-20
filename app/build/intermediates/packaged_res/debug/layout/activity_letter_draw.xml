@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LetterDraw">
+
+    <com.danny_jiang.tracinglibrary.view.TracingLetterView
+        android:layout_marginTop="@dimen/dp_64"
+        android:layout_marginBottom="@dimen/dp_64"
+        android:layout_marginEnd="@dimen/dp_40"
+        android:layout_marginStart="@dimen/dp_40"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/letter_view"
+        app:pointColor="@color/purple_500"
+        app:instructionMode="false"
+        app:strokeColor="@color/black"
+        app:anchorDrawable="@drawable/star">
+
+    </com.danny_jiang.tracinglibrary.view.TracingLetterView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

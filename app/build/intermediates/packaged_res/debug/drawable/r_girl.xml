@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item
+        android:drawable="@drawable/girl_bg"
+        android:gravity="center"
+        android:height="130dp"
+        android:width="130dp"
+        />
+    <item
+        android:drawable="@drawable/girl"
+        android:gravity="center"
+        android:height="100dp"
+        android:width="100dp"
+        />
+    <item
+        android:drawable="@drawable/check"
+        android:gravity="right"
+        android:height="30dp"
+        android:width="30dp"/>*/
+
+</layer-list>
