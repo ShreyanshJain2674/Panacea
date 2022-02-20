@@ -80,6 +80,7 @@ drawable profile
 drawable r_boy
 drawable r_girl
 drawable rounded_corner
+drawable splash
 drawable star
 drawable y_letter
 id button
@@ -129,6 +130,7 @@ layout activity_letter_story
 layout activity_main
 layout activity_num_home
 layout activity_number_selection
+layout activity_splash
 layout congratulation_dialogue
 layout letters_cardview
 menu home_menu

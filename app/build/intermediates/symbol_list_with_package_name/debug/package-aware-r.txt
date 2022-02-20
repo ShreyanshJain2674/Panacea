@@ -2324,6 +2324,7 @@ drawable profile
 drawable r_boy
 drawable r_girl
 drawable rounded_corner
+drawable splash
 drawable star
 drawable test_custom_background
 drawable tooltip_frame_dark
@@ -2885,6 +2886,7 @@ layout activity_letter_story
 layout activity_main
 layout activity_num_home
 layout activity_number_selection
+layout activity_splash
 layout congratulation_dialogue
 layout custom_dialog
 layout design_bottom_navigation_item
